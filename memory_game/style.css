@@ -30,12 +30,12 @@ footer {
 }
 
 h1 {
-    font-family: "Raleway", sans-serif;
-    color: white;
-    letter-spacing: 1px;
-    font-weight: 400;
-    font-size: 45px;
-    margin: 0;
+  font-family: "Raleway", sans-serif;
+  color: white;
+  letter-spacing: 1px;
+  font-weight: 400;
+  font-size: 45px;
+  margin: 0;
 }
 
 a {font-family: "Raleway", sans-serif;
@@ -88,6 +88,6 @@ p {
 }
 
 body {
-    text-align: center;
-    margin: 0;
+  text-align: center;
+  margin: 0;
 }

@@ -43,5 +43,11 @@ var flipCard = function (cardId) {
 	}
 }
 
+var createBoard = function () {
+	for (var i = 0; i < cards.length; i++) {
+		var cardElement =
+  }
+}
+
 flipCard(0);
 flipCard(2);
